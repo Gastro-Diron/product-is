@@ -2238,7 +2238,7 @@
         <carbon.consent.mgt.version>2.5.2</carbon.consent.mgt.version>
 
         <!--Identity Governance Version-->
-        <identity.governance.version>1.8.43</identity.governance.version>
+        <identity.governance.version>1.8.44-SNAPSHOT</identity.governance.version>
 
         <!--Identity Carbon Versions-->
         <identity.carbon.auth.saml2.version>5.8.4</identity.carbon.auth.saml2.version>
@@ -2353,7 +2353,11 @@
         <conditional.authentication.functions.version>1.2.26</conditional.authentication.functions.version>
 
         <!-- Identity Portal Versions -->
+<<<<<<< Updated upstream
         <identity.apps.version>1.6.347</identity.apps.version>
+=======
+        <identity.apps.version>1.6.345-SNAPSHOT</identity.apps.version>
+>>>>>>> Stashed changes
 
         <!-- Charon -->
         <charon.version>3.4.1</charon.version>
